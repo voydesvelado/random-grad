@@ -39,14 +39,14 @@
 .btn {
   border: none;
   font-family: inherit;
-  cursor: pointer;
+  cursor: copy;
   background-color: #fff;
   text-decoration: underline;
   text-transform: uppercase;
   font-size: 1rem;
   outline: none;
   color: inherit;
-  transition: all 500ms ease-out;
+  transition: color 300ms ease-out;
 }
 
 .btn:hover {
