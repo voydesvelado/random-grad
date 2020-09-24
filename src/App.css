@@ -52,3 +52,18 @@
 .btn:hover {
   color: #bec1c2;
 }
+
+nav {
+  height: 4.7rem;
+
+  font-weight: 600;
+  background-color: #222;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  overflow: hidden;
+  z-index: 100;
+}
