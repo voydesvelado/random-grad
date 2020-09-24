@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/random-grad/static/css/main.a5b6bd75.chunk.css",
-    "main.js": "/random-grad/static/js/main.b6935220.chunk.js",
-    "main.js.map": "/random-grad/static/js/main.b6935220.chunk.js.map",
+    "main.css": "/random-grad/static/css/main.b5772f08.chunk.css",
+    "main.js": "/random-grad/static/js/main.bb673204.chunk.js",
+    "main.js.map": "/random-grad/static/js/main.bb673204.chunk.js.map",
     "runtime-main.js": "/random-grad/static/js/runtime-main.46020847.js",
     "runtime-main.js.map": "/random-grad/static/js/runtime-main.46020847.js.map",
     "static/js/2.26f5b9ca.chunk.js": "/random-grad/static/js/2.26f5b9ca.chunk.js",
     "static/js/2.26f5b9ca.chunk.js.map": "/random-grad/static/js/2.26f5b9ca.chunk.js.map",
     "index.html": "/random-grad/index.html",
-    "precache-manifest.d15869e4a1a753a4ccbf275563887094.js": "/random-grad/precache-manifest.d15869e4a1a753a4ccbf275563887094.js",
+    "precache-manifest.2d012d60dc972aeaf90c02962599bb71.js": "/random-grad/precache-manifest.2d012d60dc972aeaf90c02962599bb71.js",
     "service-worker.js": "/random-grad/service-worker.js",
-    "static/css/main.a5b6bd75.chunk.css.map": "/random-grad/static/css/main.a5b6bd75.chunk.css.map",
+    "static/css/main.b5772f08.chunk.css.map": "/random-grad/static/css/main.b5772f08.chunk.css.map",
     "static/js/2.26f5b9ca.chunk.js.LICENSE.txt": "/random-grad/static/js/2.26f5b9ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.46020847.js",
     "static/js/2.26f5b9ca.chunk.js",
-    "static/css/main.a5b6bd75.chunk.css",
-    "static/js/main.b6935220.chunk.js"
+    "static/css/main.b5772f08.chunk.css",
+    "static/js/main.bb673204.chunk.js"
   ]
 }
